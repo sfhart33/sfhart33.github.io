@@ -14,7 +14,7 @@ description              : &description "Sam Hart's acedemic website"
 url                      : "https://sfhart33.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sfhart33/sfhart33.github.io"
-teaser                   : "/images/clam.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "clam.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sam Hart"
-  avatar           : "/images/sfmh_headshot.jpg"
+  avatar           : "sfmh_headshot.jpg"
   bio              : "PhD candidate, Molecular and Cellular Biology, University of Washington.\n \nStuding the genomics of contagious clam cancer, Metzger lab, Pacific Northwest Research Institute."
   location         : "Seattle, WA"
   employer         :
