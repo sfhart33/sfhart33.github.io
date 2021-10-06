@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-[Metzger Lab](https://www.pnri.org/research/labs/metzger-lab/), Pacific Northwest Research Institute
-=====
+I am a 4th year PhD student at the University of Washington interested in evolutionary biology. I am a member of the [Metzger Lab](https://www.pnri.org/research/labs/metzger-lab/) at the Pacific Northwest Research Institute, where I study the genomics of a [contagious cancer in soft-shell clams](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4393529/)
 
-[Shou Lab](https://iris.ucl.ac.uk/iris/browse/profile?upi=WSHOU61), Fred Hutchinson Cancer Research Center
-=====
-Note that the lab has moved to London
 
-[Barlow Lab](https://www.uvm.edu/cals/asci/barlow-lab), University of Vermont
-=====
+
+
+
+
 
 EXTRA TO DELETE LATER:
 =====
