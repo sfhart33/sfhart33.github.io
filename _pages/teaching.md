@@ -1,15 +1,11 @@
 ---
 permalink: /teaching
 title: "Teaching"
-excerpt: "Teaching, Outreach and Mentorship"
+excerpt: "Teaching"
 author_profile: true
 redirect_from:
   - /teaching/
 ---
-
-### Preprints
-
-None currently
 
 ### Peer-reviewed manuscripts
 
