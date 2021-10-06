@@ -13,9 +13,8 @@ redirect_from:
 [Metzger Lab](https://www.pnri.org/research/labs/metzger-lab/), Pacific Northwest Research Institute
 =====
 
-[Shou Lab](https://iris.ucl.ac.uk/iris/browse/profile?upi=WSHOU61), Fred Hutchinson Cancer Research Center
+[Shou Lab](https://iris.ucl.ac.uk/iris/browse/profile?upi=WSHOU61), Fred Hutchinson Cancer Research Center (now University College London)
 =====
-Note that the lab has moved to London
 
 [Barlow Lab](https://www.uvm.edu/cals/asci/barlow-lab), University of Vermont
 =====
