@@ -13,7 +13,11 @@ redirect_from:
 [Metzger Lab](https://www.pnri.org/research/labs/metzger-lab/), Pacific Northwest Research Institute
 =====
 
-![Image of Yaktocat](https://github.com/sfhart33/sfhart33.github.io/tree/master/images/Metzger_lab_tanks.PNG)
+![Image of Yaktocat](https://github.com/sfhart33/sfhart33.github.io/tree/master/images/Metzger_lab_tanks.png)
+
+![Image](images/Metzger_lab_tanks.png)
+
+https://github.com/sfhart33/sfhart33.github.io/blob/71e1dd632ef1005e806acc61418d734e811adf0d/images/Metzger_lab_tanks.png
 
 ![alt text](https://github.com/sfhart33/sfhart33.github.io/tree/master/images/Metzger_lab_tanks.PNG?raw=true)
 
