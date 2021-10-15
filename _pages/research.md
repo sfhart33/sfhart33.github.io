@@ -14,6 +14,8 @@ redirect_from:
 =====
 Graduate Research Assisant, 2019-present
 
+![Editing a markdown file for a talk](/images/barlow_lab_cows.jpg)
+
 {% include figure image_path="/images/barlow_lab_cows.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
 
 {{ Metzger_lab_tanks.png }}{{ Metzger_lab_tanks.png }}/images/
