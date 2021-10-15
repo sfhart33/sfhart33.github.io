@@ -17,7 +17,9 @@ Graduate Research Assisant, 2019-present
 ![Metzger lab](/images/Metzger_lab_tanks.png)
 
 
-[Shou Lab](https://iris.ucl.ac.uk/iris/browse/profile?upi=WSHOU61), Fred Hutchinson Cancer Research Center (*now University College London*)
+[Shou Lab](https://iris.ucl.ac.uk/iris/browse/profile?upi=WSHOU61), Fred Hutchinson Cancer Research Center
+=====
+([*now [University College London](https://iris.ucl.ac.uk/iris/browse/profile?upi=WSHOU61)*)
 =====
 Research Technician, 2015-2018
 
