@@ -12,7 +12,7 @@ redirect_from:
 
 [Metzger Lab](https://www.pnri.org/research/labs/metzger-lab/), Pacific Northwest Research Institute
 =====
-
+![alt text](https://github.com/sfhart33/sfhart33.github.io/tree/master/images/Metzger_lab_tanks.PNG?raw=true)
 [[https://github.com/sfhart33/sfhart33.github.io/tree/master/images/Metzger_lab_tanks.PNG]]
 
 [Shou Lab](https://iris.ucl.ac.uk/iris/browse/profile?upi=WSHOU61), Fred Hutchinson Cancer Research Center
