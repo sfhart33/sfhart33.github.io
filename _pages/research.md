@@ -14,6 +14,8 @@ redirect_from:
 =====
 Graduate Research Assisant, 2019-present
 
+{% include figure image_path="/images/barlow_lab_cows.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
+
 {{ Metzger_lab_tanks.png }}{{ Metzger_lab_tanks.png }}/images/
 
 ![Metzger lab](https://github.com/sfhart33/sfhart33.github.io/blob/71e1dd632ef1005e806acc61418d734e811adf0d/images/Metzger_lab_tanks.png)
