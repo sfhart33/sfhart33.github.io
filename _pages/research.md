@@ -17,13 +17,11 @@ Graduate Research Assisant, 2019-present
 ![Metzger lab](/images/Metzger_lab_tanks.png)
 
 
-[Shou Lab](https://iris.ucl.ac.uk/iris/browse/profile?upi=WSHOU61), Fred Hutchinson Cancer Research Center
+[Shou Lab](https://iris.ucl.ac.uk/iris/browse/profile?upi=WSHOU61), Fred Hutchinson Cancer Research Center (*now University College London*)
 =====
 Research Technician, 2015-2018
 
 ![Shou lab](/images/shou_lab_group.jpg)
-
-(*now University College London*)
 
 [Barlow Lab](https://www.uvm.edu/cals/asci/barlow-lab), University of Vermont
 =====
