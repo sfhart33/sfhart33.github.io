@@ -14,19 +14,14 @@ redirect_from:
 =====
 Graduate Research Assisant, 2019-present
 
-![Editing a markdown file for a talk](/images/barlow_lab_cows.jpg)
+![Metzger lab](/images/Metzger_lab_tanks.png)
 
-{% include figure image_path="/images/barlow_lab_cows.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
-
-{{ Metzger_lab_tanks.png }}{{ Metzger_lab_tanks.png }}/images/
-
-![Metzger lab](https://github.com/sfhart33/sfhart33.github.io/blob/71e1dd632ef1005e806acc61418d734e811adf0d/images/Metzger_lab_tanks.png)
 
 [Shou Lab](https://iris.ucl.ac.uk/iris/browse/profile?upi=WSHOU61), Fred Hutchinson Cancer Research Center
 =====
 Research Technician, 2015-2018
 
-![Shou lab](https://github.com/sfhart33/sfhart33.github.io/blob/f2675df0db890641ad76764b299b9f55d7135caf/images/shou_lab_group.jpg)
+![Shou lab](/images/shou_lab_group.jpg)
 
 (*now University College London*)
 
@@ -34,4 +29,5 @@ Research Technician, 2015-2018
 =====
 Undergraduate Research Assistant, 2009-2013
 
-![Barlow lab](https://github.com/sfhart33/sfhart33.github.io/blob/f2675df0db890641ad76764b299b9f55d7135caf/images/barlow_lab_cows.jpg)
+![Barlow lab](/images/barlow_lab_cows.jpg)
+
