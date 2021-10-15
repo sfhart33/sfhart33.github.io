@@ -19,8 +19,8 @@ Graduate Research Assisant, 2019-present
 
 Shou Lab, Fred Hutchinson Cancer Research Center
 =====
-(*now [University College London](https://iris.ucl.ac.uk/iris/browse/profile?upi=WSHOU61)*)
-=====
+## (*now [University College London](https://iris.ucl.ac.uk/iris/browse/profile?upi=WSHOU61)*)
+
 Research Technician, 2015-2018
 
 ![Shou lab](/images/shou_lab_group.jpg)
