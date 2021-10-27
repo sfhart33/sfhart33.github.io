@@ -7,11 +7,11 @@ redirect_from:
   - /publications/
 ---
 
-### Preprints
+### Metzger lab
 
-None currently
+Stay posted...
 
-### Peer-reviewed manuscripts
+### Shou Lab
 
 **Hart S.**, Chen C. Shou W. (2021). [Pleiotropic mutations can rapidly evolve to directly benefit self and cooperative partner despite unfavorable conditions](https://elifesciences.org/articles/57838). eLife, DOI: 10.7554/eLife.57838.
 {: .notice}
