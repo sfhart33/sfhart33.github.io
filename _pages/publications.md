@@ -9,7 +9,8 @@ redirect_from:
 
 ### Metzger lab
 
-Stay posted...
+Giersch R., **Hart S.**, Reddy S., Yonemitsu M., Rosales M., Korn M., Geleta B., Countway P., Robledo J., Metzger M. (2021). [Survival and detection of bivalve transmissible neoplasia from the soft-shell clam Mya arenaria (MarBTN) in seawater](https://www.biorxiv.org/content/10.1101/2021.12.25.473725v1). bioRxiv.
+{: .notice}
 
 ### Shou Lab
 
