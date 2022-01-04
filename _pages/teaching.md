@@ -24,7 +24,7 @@ Taught visiting school groups grade 3-12 ecological concepts, leadership, enviro
 ### Mentorship
 
 **Mentor for high school researchers, [Polygence](https://www.polygence.org/), Sept 2021 - Present.**
-Provided advice and direction a high school student completing a self-designed biology research project over ten virtual mentorship sessions.
+Provided advice and direction to a high school student completing a self-designed biology research project over ten virtual mentorship sessions.
 {: .notice}
 
 **Mentor for undergraduate researchers, [Fred Hutchinson Cancer Research Center](https://www.fredhutch.org/en.html), March 2015 - Sept 2018.**
