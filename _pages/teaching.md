@@ -17,8 +17,23 @@ Instructor for the lab section of upper-level undergraduate biology course “Ex
 Taught visiting school groups grade 3-12 ecological concepts, leadership, environmental conservation, and service learning in an outdoor educational setting. Led backcountry trips with high school students.
 {: .notice}
 
+### Mentorship
+
+**Mentor for high school researchers, [Polygence](https://www.polygence.org/), Sept 2021 - Present.**
+Provided advice and direction to high school students completing self-designed biology research projects over ten virtual mentorship sessions each:
+-	M. C., Bangalore, India. *The impact of covid-19 on cancer treatment and outcomes.* 2021-2022
+{: .notice}
+
+**Mentor for undergraduate researchers, Shou Lab, March 2015 - Sept 2018.**
+Supervised four undergraduate researchers during my time in the Shou lab:
+-	H. C., University of Washington, 2017-2018
+-	A. L., University of Washington, 2016-2018
+-	D. N., Seattle University, 2015-2017
+-	H. M., Sichuan University, 2015-2016
+{: .notice}
+
 ### Outreach
 
-**Visiting Science Educator, [Skype a Scientist](https://www.skypeascientist.com/), Nov 2020 – Present.**
+**Visiting Science Educator, [Skype a Scientist](https://www.skypeascientist.com/), Nov 2020 – Oct 2021.**
 Visited 7 classrooms remotely during the COVID-19 pandemic to give an interactive presentation about science careers, my research, and various questions about science. 
 {: .notice}
