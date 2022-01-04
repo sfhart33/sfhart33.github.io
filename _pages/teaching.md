@@ -24,7 +24,7 @@ Provided advice and direction to high school students completing self-designed b
 -	M. C., Bangalore, India. *The impact of covid-19 on cancer treatment and outcomes.* 2021-2022
 {: .notice}
 
-**Mentor for undergraduate researchers, Shou Lab, March 2015 - Sept 2018.**
+**Mentor for undergraduate researchers, [Fred Hutchinson Cancer Research Center](https://www.fredhutch.org/en.html), March 2015 - Sept 2018.**
 Supervised four undergraduate researchers during my time in the Shou lab:
 -	H. C., University of Washington, 2017-2018
 -	A. L., University of Washington, 2016-2018
