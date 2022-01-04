@@ -10,7 +10,7 @@ redirect_from:
 ### Teaching
 
 **Teaching Trainee, [STEP-UP](https://depts.washington.edu/stepuw/home/step-up/), University of Washington, Sept 2021 – Mar 2022.** 
-Science Teaching Experience Program for Upcoming PhDs (STEP-UP) is a year-long course for developing teaching skills, particularly focused on equitable and inclusive teaching using active learning techniques. [Classroom session on cancer mutational signatures given to undergraduates](https://www.youtube.com/watch?v=pSRyHpk-Qss).
+Science Teaching Experience Program for Upcoming PhDs (STEP-UP) is a year-long course for developing teaching skills, particularly focused on equitable and inclusive teaching using active learning techniques. [Video recording of classroom session on cancer mutational signatures given to undergraduates](https://www.youtube.com/watch?v=pSRyHpk-Qss).
 {: .notice}
 
 **Teaching Assistant, [BIO481](http://kerrlab.org/Bio481/HomePage), Biology Department, University of Washington, Sept 2019 – Dec 2019.**
