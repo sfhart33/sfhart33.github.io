@@ -10,8 +10,8 @@ redirect_from:
 
 ### Conference talks
 
-- Sept 2021. Genome Evolution of Soft-shell Clam Transmissible Cancer. Talk presented at the Biodiversity Genomics meeting, virtual. -	May 2021. Genome Evolution of Soft-shell Clam Transmissible Cancer. Talk presented at Cold Spring Harbor Labs Biology of Genomes meeting, virtual. 
--	Feb. 2021. Mutations, Signatures and Selection in Soft-shell Clam Transmissible Cancer. Talk presented at the Pacific Northwest Research Institute monthly meetup, virtual. 
+- Sept 2021. Genome Evolution of Soft-shell Clam Transmissible Cancer. Talk presented at the Biodiversity Genomics meeting, virtual. 
+- May 2021. Genome Evolution of Soft-shell Clam Transmissible Cancer. Talk presented at Cold Spring Harbor Labs Biology of Genomes meeting, virtual.  
 -	Oct. 2020. Transposable Element Expansions in Soft-shell Clam Transmissible Cancer. Talk presented at Cold Spring Harbor Labs Transposable Elements meeting, virtual. 
 -	Jan. 2020. Genome of the Soft-Shell Clam and Its Transmissible Cancer. Talk presented at the Plant and Animal Genome Conference, Aquaculture Workshop, San Diego, CA. 
 -	Apr. 2018. Evolution of “win-win” phenotypes in cooperative communities. Talk presented at EVO WIBO (Evolution in Washington, Idaho, British Colombia, and Oregon) conference, Port Townsend, WA. 
