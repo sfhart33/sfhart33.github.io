@@ -24,7 +24,7 @@ Giersch R., **Hart S.**, Reddy S., Yonemitsu M., Rosales M., Korn M., Geleta B.,
 Green R., Sonal, Wang L., **Hart S.** , Lu W., Skelding D., Burton J., Mi H., Capel A., Chen H., Lin A., Subramaniam A., Rabinowitz J., Shou W. (2020). [Metabolic excretion associated with nutrient–growth dysregulation promotes the rapid evolution of an overt metabolic defect](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000757). PLoS Biology, 18(8): e3000757.
 {: .notice}
 
-**Hart S.**\*, Pineda J.\*, Chen C., Capel A.,9 Green R., Shou W. (2019). [Disentangling strictly self-serving mutations from win-win mutations in a mutualistic microbial community](https://doi.org/10.7554/eLife.44812). eLife, DOI: 10.7554/eLife.44812.
+**Hart S.**\*, Pineda J.\*, Chen C., Capel A., Green R., Shou W. (2019). [Disentangling strictly self-serving mutations from win-win mutations in a mutualistic microbial community](https://doi.org/10.7554/eLife.44812). eLife, DOI: 10.7554/eLife.44812.
 \**equal contribution first authors*
 {: .notice}
 
