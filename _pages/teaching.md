@@ -9,8 +9,14 @@ redirect_from:
 
 ### Teaching
 
-**Teaching Trainee, [STEP-UP](https://depts.washington.edu/stepuw/home/step-up/), University of Washington, Sept 2021 – Mar 2022.** 
-Science Teaching Experience Program for Upcoming PhDs (STEP-UP) is a year-long course for developing teaching skills, particularly focused on equitable and inclusive teaching using active learning techniques. [Video recording](https://www.youtube.com/watch?v=pSRyHpk-Qss) of classroom session on cancer mutational signatures I gave to undergraduates.
+**Lead Instructor, [Coding for Cancer](https://www.fredhutch.org/en/about/education-outreach/coding-for-cancer.html), Fred Hutchinson Cancer Research Center, July - Aug 2022.**
+Designed and taught an intensive four-week virtual course teaching computational skills and cancer research applications to high schoolers, predominantly from backgrounds systemically excluded from careers in biomedical sciences.
+
+**Instructor of Record, [BIOL403](https://myplan.uw.edu/course/#/courses/BIOL403), University of Washington, March 2022 - June 2022.**
+Designed and taught senior-level biology course “Modern topics in evolution”. Lead instructor for four weeks, focusing on cancer/somatic cell evolution.
+
+**Teaching Trainee, [STEP-UP](https://depts.washington.edu/stepuw/home/step-up/), University of Washington, Sept 2021 – June 2022.** 
+Science Teaching Experience Program for Upcoming PhDs (STEP-UP) is a year-long course for developing teaching skills, particularly focused on equitable and inclusive teaching using active learning techniques.
 {: .notice}
 
 **Teaching Assistant, [BIO481](http://kerrlab.org/Bio481/HomePage), Biology Department, University of Washington, Sept 2019 – Dec 2019.**
