@@ -21,6 +21,7 @@ Genomic analysis in a transmissible cancer lineage spreading through the soft-sh
 - Discovered a novel clock-like mutational signature and used to generate the first bivalve transmissible cancer age estimate (~500 years). 
 - Identified widespread copy number gains, genomic rearrangement, and transposable element mobilization indicative of an unstable genome. 
 
+<br/><br/>
 
 ![Shou lab](/images/shou_lab_group.jpg)
 
@@ -34,6 +35,7 @@ Investigated the evolution of cooperation using an engineered system of cross-fe
 - Established methods for quantifying the metabolic interactions and community behaviors in microbial communities by fitting these behaviors to predictive models. 
 - Discovered novel cooperative traits arising during experimental evolution of a cooperative system.
 
+<br/><br/>
 
 ![Barlow lab](/images/barlow_lab_cows.jpg)
 
