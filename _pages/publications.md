@@ -13,7 +13,7 @@ Michnowska A., **Hart S.**, Smolarz K., Hallmann A., Metzger M. (2022). [Horizon
 {: .notice}
 
 
-Giersch R., **Hart S.**, Reddy S., Yonemitsu M., Rosales M., Korn M., Geleta B., Countway P., Robledo J., Metzger M. (2021). [Survival and detection of bivalve transmissible neoplasia from the soft-shell clam Mya arenaria (MarBTN) in seawater](https://www.biorxiv.org/content/10.1101/2021.12.25.473725v1). bioRxiv *(preprint)*.
+Giersch R., **Hart S.**, Reddy S., Yonemitsu M., Rosales M., Korn M., Geleta B., Countway P., Robledo J., Metzger M. (2022). [Survival and detection of bivalve transmissible neoplasia from the soft-shell clam Mya arenaria (MarBTN) in seawater](https://doi.org/10.3390/pathogens11030283). Pathogens, 11(3), 283.
 {: .notice}
 
 ### Shou Lab
