@@ -19,6 +19,8 @@ redirect_from:
 
 ### Local talks
 
+- Apr. 2022. Centuries of cancer evolution under the sea: genome evolution of a contagious clam cancer. Talk presented at the Pacific Northwest Research Institute monthly meetup, virtual.
+- Feb. 2022. Centuries of cancer evolution under the sea: genome evolution of a contagious clam cancer. Talk presented to the University of Washington Genome Sciences department “Research Reports” seminar, virtual.
 -	May 2021. Genome Evolution of a Transmissible Cancer Lineage in Soft-shell Clams. Talk presented at University of Washington Cell and Molecular Biology Training Grant retreat, virtual. 
 -	Feb. 2021. Mutations, Signatures and Selection in Soft-shell Clam Transmissible Cancer. Talk presented at the Pacific Northwest Research Institute monthly meetup, virtual. 
 -	Dec. 2020. Evolution of a Transmissible Cancer in the Soft-shell Clam. Talk presented to the University of Washington Cell and Molecular Biology Training Grant student group, virtual. 
@@ -36,6 +38,7 @@ redirect_from:
 
 ### Posters
 
+- Mar. 2022. A contagious cancer has been transmitting in clams for centuries and displays genome instability. Poster presented at AACR: Evolutionary Dynamics in Carcinogenesis conference, Tampa, FL.
 -	May 2020. Genomics of Soft-shell Clam Transmissible Cancer. Poster presented at University of Washington Cell and Molecular Biology Training Grant retreat, virtual. 
 -	Jan. 2020. Genome of the Soft-Shell Clam and Its Transmissible Cancer. Poster presented at the Plant and Animal Genome Conference poster session, San Diego, CA. 
 -	Sept. 2019. Mobile Genetic Element Steamer in the Evolution of a Transmissible Cancer Lineage. Poster presented at the Pacific Northwest Research Institute poster session, Seattle, WA. 
