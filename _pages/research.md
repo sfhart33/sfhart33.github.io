@@ -15,7 +15,9 @@ redirect_from:
 
 **Graduate Research Assisant, 2019-present**
 
-Genomic analysis in a transmissible cancer lineage spreading through the soft-shell clam population. Discovered a novel clock-like mutational signature and used to generate the first bivalve transmissible cancer age estimate (~500 years). Identified widespread copy number gains, genomic rearrangement, and transposable element mobilization indicative of an unstable genome. 
+Genomic analysis in a transmissible cancer lineage spreading through the soft-shell clam population. 
+- Discovered a novel clock-like mutational signature and used to generate the first bivalve transmissible cancer age estimate (~500 years). 
+- Identified widespread copy number gains, genomic rearrangement, and transposable element mobilization indicative of an unstable genome. 
 
 ![Metzger lab](/images/Metzger_lab_tanks.png)
 
@@ -26,7 +28,9 @@ Shou Lab, Fred Hutchinson Cancer Research Center
 
 **Research Technician, 2015-2018**
 
-Investigated the evolution of cooperation using an engineered system of cross-feeding yeast strains. Established methods for quantifying the metabolic interactions and community behaviors in microbial communities by fitting these behaviors to predictive models. Discovered novel cooperative traits arising during experimental evolution of a cooperative system.
+Investigated the evolution of cooperation using an engineered system of cross-feeding yeast strains. 
+- Established methods for quantifying the metabolic interactions and community behaviors in microbial communities by fitting these behaviors to predictive models. 
+- Discovered novel cooperative traits arising during experimental evolution of a cooperative system.
 
 ![Shou lab](/images/shou_lab_group.jpg)
 
