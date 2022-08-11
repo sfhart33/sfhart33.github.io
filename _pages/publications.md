@@ -9,7 +9,7 @@ redirect_from:
 
 ### Metzger lab
 
-Hart S. F. M., Yonemitsu, M. A., Giersch, R. M., Beal B. F., Arriagada G., Davis B. W., Ostrander E. A., Goff S. P., Metzger M. J. (2022). [Centuries of genome instability and evolution in soft-shell clam transmissible cancer](https://www.biorxiv.org/content/10.1101/2022.08.07.503107v1). bioRxiv, doi.org/10.1101/2022.08.07.503107 *(preprint)*.
+**Hart S.**, Yonemitsu, M., Giersch, R., Beal B., Arriagada G., Davis B., Ostrander E., Goff S., Metzger M. (2022). [Centuries of genome instability and evolution in soft-shell clam transmissible cancer](https://www.biorxiv.org/content/10.1101/2022.08.07.503107v1). bioRxiv, doi.org/10.1101/2022.08.07.503107 *(preprint)*.
 {: .notice}
 
 Michnowska A., **Hart S.**, Smolarz K., Hallmann A., Metzger M. (2022). [Horizontal transmission of disseminated neoplasia in the widespread clam Limecola balthica from Southern Baltic Sea](https://doi.org/10.1111/mec.16464). Molecular Ecology, 31(11): 3128–3136.
