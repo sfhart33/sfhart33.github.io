@@ -18,7 +18,7 @@ redirect_from:
 {: .notice}
 
 ### Local talks
-
+- May 2022. Contagious clam cancer. Talk presented at the Molecular and Cellular Biology PhD Program retreat, Eatonville, WA.
 - Apr. 2022. Centuries of cancer evolution under the sea: genome evolution of a contagious clam cancer. Talk presented at the Pacific Northwest Research Institute monthly meetup, virtual.
 - Feb. 2022. Centuries of cancer evolution under the sea: genome evolution of a contagious clam cancer. Talk presented to the University of Washington Genome Sciences department “Research Reports” seminar, virtual.
 -	May 2021. Genome Evolution of a Transmissible Cancer Lineage in Soft-shell Clams. Talk presented at University of Washington Cell and Molecular Biology Training Grant retreat, virtual. 
