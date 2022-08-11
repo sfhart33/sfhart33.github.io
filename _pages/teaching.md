@@ -10,7 +10,7 @@ redirect_from:
 ### Teaching
 
 **Lead Instructor, [Coding for Cancer](https://www.fredhutch.org/en/about/education-outreach/coding-for-cancer.html), Fred Hutchinson Cancer Research Center, July - Aug 2022.**
-Designed and taught an intensive four-week virtual course teaching computational skills and cancer research applications to high schoolers, predominantly from backgrounds systemically excluded from careers in biomedical sciences.
+Taught an intensive four-week virtual course teaching computational skills (R) and cancer research applications to high schoolers, predominantly from backgrounds systemically excluded from careers in biomedical sciences.
 {: .notice}
 
 **Instructor of Record, [BIOL403](https://myplan.uw.edu/course/#/courses/BIOL403), University of Washington, March 2022 - June 2022.**
